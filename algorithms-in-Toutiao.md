@@ -17,8 +17,7 @@
 ![avatar](https://pic.36krcnd.com/avatar/201801/15160549/1o62umwiaef0gado.jpeg)
 <center>图二：示例</center>
 图二对文本进行了另一个角度的分析，分析出文章profile（同类词、同义词）以及新版实体词。
-解决文本相似度特征非常重要，主要方法是根据判断相似文章的主题、行文、主体等内容，根据这些特征做线上策略。
-![avatar](https://pic.36krcnd.com/avatar/201801/15160549/1o62umwiaef0gado.jpeg)
+解决文本相似度特征非常重要，主要方法是根据判断相似文章的主题、行文、主体等内容，根据这些特征做线上策略。![avatar](https://pic.36krcnd.com/avatar/201801/15160711/d0ufcrvlkdf6a0tx.jpeg)
 <center>图三：头条语义标签的特征和使用场景</center>
 文本分析过程会对不同的特征进行分层，分层的理由见图四。
-![avatar](https://pic.36krcnd.com/avatar/201801/15160549/1o62umwiaef0gado.jpeg)
+![avatar](https://pic.36krcnd.com/avatar/201801/15160734/cazc3cklyyd66eic.jpeg!1200)
